@@ -15,3 +15,5 @@ This module focuses on using MediaPipe for eye blink detection and counting. Und
 
 <u><strong>Playing Games</strong></u><br>
 Explore the fun and interactive side of MediaPipe by developing games. This module will show you how to use MediaPipe's capabilities to create engaging and responsive game experiences, from gesture-based controls to real-time feedback mechanisms.
+
+<u><strong>For more information, visit <a href="https://ai.google.dev/edge/mediapipe/solutions/guide">mediapipe</a></strong></u>
